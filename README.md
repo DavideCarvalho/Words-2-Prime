@@ -1,7 +1,7 @@
 # Words 2 Prime
 > Application that takes an text and says if each word is a prime number
 
-This application takes a text as an argument, separates each word from the text, transform each word to a number based on it's letters (a = 1, b = 2 and so on) and says if this number is a Prime number or not.
+This application takes a text as an argument, separates each word from the text, transform each word to a number based on it's letters (a = 1, b = 2 and so on...) and says if this number is a Prime number or not.
 
 I used Go as tool to do this application because of two things
 1. I can put every word of the text in a single Go Routine and process it separately, this way the process will be way faster
